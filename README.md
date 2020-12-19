@@ -1,4 +1,8 @@
-### Hi I'm Eunjoo Son 👋
+### Hi,there. I'm Eunjoo Son 👋
+
+## 손은주
+
+😄 **My Profile
 
 :computer:
 
