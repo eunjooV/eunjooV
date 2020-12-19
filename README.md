@@ -1,6 +1,6 @@
 ### Hi,there. I'm Eunjoo Son 👋
 
-# 손은주
+#### 손은주
 
 😄 *My Profile
 
