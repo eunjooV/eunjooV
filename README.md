@@ -1,10 +1,17 @@
 ### Hi,there. I'm Eunjoo Son 👋
 
 #### 손은주
-#### ----------------------------
-😄 *My Profile
 
-:computer:
+😄 My Profile
+- Duksung Woman's University 
+- Major in Math, Statistic
+
+:computer: Interested in
+- Machine Learning, Deep Learning 
+- Fintech
+
+🌱 I want to be ...
+- Data Analyst, Data Scientist
 
 <!--
 **eunjooV/eunjooV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
