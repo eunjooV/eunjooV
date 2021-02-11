@@ -2,11 +2,13 @@
 
 #### 손은주
 
-😄 My Profile
-- Duksung Woman's University 
-- Major in Math, Statistic
+😄 My Profile 
+- Major in Math, Statistic 
+- 멋쟁이 사자처럼 6기 (2018.03~2018.12)
+- TAVE 6기 (2020.08~2020.12)
 
 :computer: Interested in
+- Data Analysis
 - Machine Learning, Deep Learning 
 - Fintech
 
